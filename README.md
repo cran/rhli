@@ -1,4 +1,4 @@
-# rhli
+# R Host Language Interface
 The rhli package offers complete access from R to the [FIS MarketMap](https://fame.sungard.com/support.html) 
 C-Toolkit ("FAME C-HLI"). 
 

@@ -4,7 +4,8 @@
 \alias{cfmgtatt_double}
 \title{\code{cfmgtatt_double}}
 \usage{
-cfmgtatt_double(status, dbkey, objnam, atttyp, attnam, value, inlen, outlen)
+cfmgtatt_double(status, dbkey, objnam, atttyp, attnam, value, inlen,
+  outlen)
 }
 \arguments{
 \item{status}{Integer}

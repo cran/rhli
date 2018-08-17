@@ -4,8 +4,8 @@
 \alias{cfmrdfa_int}
 \title{\code{cfmrdfa_int}}
 \usage{
-cfmrdfa_int(status, dbkey, objnam, wntobs, syear, sprd, gotobs, valary, tmiss,
-  mistt)
+cfmrdfa_int(status, dbkey, objnam, wntobs, syear, sprd, gotobs, valary,
+  tmiss, mistt)
 }
 \arguments{
 \item{status}{Integer}

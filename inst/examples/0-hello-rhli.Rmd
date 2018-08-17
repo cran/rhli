@@ -19,7 +19,7 @@ _C-HLI_ functions return a `status` code to indicate success (zero) or failure. 
 |--------|-------|---------------------------------------------------------------------------------------|
 | HSUCC  | 0     | You are good! "Success"                                                               |
 | HNINIT | 2     | The HLI has not been initialized.                                                     |
-| HBPROD | 55    | Contact FIS, get authorized for Qoma products.                                        |
+| HBPROD | 55    | Contact Qoma, get authorized for Qoma products.                                        |
 | HLICFL | 98    | Contact FIS, get authorized for FAME products.                                        |
 
 The below program:

@@ -4,8 +4,8 @@
 \alias{cfmalob}
 \title{\code{cfmalob}}
 \usage{
-cfmalob(status, dbkey, objnam, class, freq, type, basis, observ, numobs, numchr,
-  growth)
+cfmalob(status, dbkey, objnam, class, freq, type, basis, observ, numobs,
+  numchr, growth)
 }
 \arguments{
 \item{status}{Integer}

@@ -4,7 +4,8 @@
 \alias{cfmsfis}
 \title{\code{cfmsfis}}
 \usage{
-cfmsfis(status, freq, syear, sprd, eyear, eprd, range, numobs, fmonth, flabel)
+cfmsfis(status, freq, syear, sprd, eyear, eprd, range, numobs, fmonth,
+  flabel)
 }
 \arguments{
 \item{status}{Integer}

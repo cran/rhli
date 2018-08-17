@@ -2737,8 +2737,7 @@ cfmini <- function(status) {
   }
   else if (status$value == 55) {
     cat(
-      "\n\nQOMA product entitlements do not appear in FAME license files.\n",
-      "Contact FIS MarketMap Licensing <license.dms@fisglobal.com>\n\n",
+      "\n\nEnvironment variable QOMA_PIN is incorrect or not set.\n\n",
       sep = ""
     )
   }

@@ -4,8 +4,8 @@
 \alias{cfmwhat}
 \title{\code{cfmwhat}}
 \usage{
-cfmwhat(status, dbkey, objnam, class, type, freq, basis, observ, fyear, fprd,
-  lyear, lprd, cyear, cmonth, cday, myear, mmonth, mday, desc, doc)
+cfmwhat(status, dbkey, objnam, class, type, freq, basis, observ, fyear,
+  fprd, lyear, lprd, cyear, cmonth, cday, myear, mmonth, mday, desc, doc)
 }
 \arguments{
 \item{status}{Integer}

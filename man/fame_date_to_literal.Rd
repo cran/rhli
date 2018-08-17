@@ -4,7 +4,8 @@
 \alias{fame_date_to_literal}
 \title{C-HLI function \code{fame_date_to_literal}}
 \usage{
-fame_date_to_literal(freq, date, literal, end_month, label_year, inlen, outlen)
+fame_date_to_literal(freq, date, literal, end_month, label_year, inlen,
+  outlen)
 }
 \arguments{
 \item{freq}{Integer}

@@ -4,7 +4,8 @@
 \alias{cfmasrt}
 \title{\code{cfmasrt}}
 \usage{
-cfmasrt(status, connkey, assert_type, assertion, perspective, grouping, dblist)
+cfmasrt(status, connkey, assert_type, assertion, perspective, grouping,
+  dblist)
 }
 \arguments{
 \item{status}{Integer}

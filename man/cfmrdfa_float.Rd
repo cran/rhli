@@ -4,8 +4,8 @@
 \alias{cfmrdfa_float}
 \title{\code{cfmrdfa_float}}
 \usage{
-cfmrdfa_float(status, dbkey, objnam, wntobs, syear, sprd, gotobs, valary, tmiss,
-  mistt)
+cfmrdfa_float(status, dbkey, objnam, wntobs, syear, sprd, gotobs, valary,
+  tmiss, mistt)
 }
 \arguments{
 \item{status}{Integer}
